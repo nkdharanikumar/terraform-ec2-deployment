@@ -46,7 +46,7 @@ VPC\
 
 ## 📂 Project Structure
 
-terraform-aws-ec2-flask-app/ │ ├── provider.tf ├── variables.tf ├──
+terraform-ec2-deployment/ │ ├── provider.tf ├── variables.tf ├──
 main.tf ├── outputs.tf ├── app.py ├── .gitignore └── README.md
 
 ------------------------------------------------------------------------
